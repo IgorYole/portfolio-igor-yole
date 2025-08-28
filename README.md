@@ -23,7 +23,7 @@ Bem-vindo ao meu portfólio de projetos! Aqui apresento iniciativas que liderei 
 ---
 
 ## 🔹 Sobre Mim
-Sou **profissional de gestão de unidades e projetos em academias**, com formação em MBA Gestão de Projetos (USP) e experiência consolidada em **coordenação técnica, desenvolvimento de equipes e melhoria de processos operacionais**.  
+Profissional com sólida experiência em gestão de unidades e liderança de projetos, com atuação destacada no setor de academias e bem-estar. MBA em Gestão de Projetos pela USP, com histórico comprovado em coordenação técnica, desenvolvimento de equipes de alta performance e otimização de processos operacionais. Foco em resultados, inovação e melhoria contínua, com capacidade de adaptação a diferentes segmentos e ambientes corporativos.  
 
 ---
 
