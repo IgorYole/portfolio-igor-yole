@@ -21,18 +21,18 @@ Bem-vindo ao meu portfólio de projetos! Aqui apresento iniciativas que liderei 
 
 ## Lista de Projetos
 
-- [Implantação do F2F – Unidade Higienópolis](https://github.com/IgorYole/implantacao-f2f-higienopolis)
-- [Atendimento com Excelência – Sala de Musculação](https://github.com/IgorYole/atendimento-musculacao)
-- [Atendimento com Excelência – Ginástica](https://github.com/IgorYole/atendimento-ginastica)
-- [Escola de Excelência – Formação de Professores](https://github.com/IgorYole/escola-excelencia-professores)
-- [Recrutamento e Seleção de Professores de Ginástica](https://github.com/IgorYole/recrutamento-professores-ginastica)
-- [Plano de Limpeza Preventiva](https://github.com/IgorYole/plano-limpeza-preventiva)
-- [Plano de Manutenção Preventiva](https://github.com/IgorYole/plano-manutencao-preventiva)
-- [Substituição de Máquinas de Musculação e Cardio](https://github.com/IgorYole/substituicao-maquinas)
-- [Troca do Piso – Área de Peso Livre](https://github.com/IgorYole/troca-piso-peso-livre)
-- [Troca de Fiação dos Espelhos](https://github.com/IgorYole/troca-fiacao-espelhos)
-- [Pintura Geral da Unidade](https://github.com/IgorYole/pintura-unidade)
-- [Treinamento de Atendimento – Recepção](https://github.com/IgorYole/treinamento-recepcao)
+- [Implantação do F2F – Unidade Higienópolis](https://github.com/IgorYole/Implanta-o-do-F2F-Unidade-Higien-polis)
+- [Atendimento com Excelência – Sala de Musculação](https://github.com/IgorYole/Atendimento-com-Excel-ncia-Sala-de-Muscula-o)
+- [Atendimento com Excelência – Ginástica](https://github.com/IgorYole/Atendimento-com-Excel-ncia-Gin-stica)
+- [Escola de Excelência – Formação de Professores](https://github.com/IgorYole/Escola-de-Excel-ncia-Forma-o-de-Professores)
+- [Recrutamento e Seleção de Professores de Ginástica](https://github.com/IgorYole/Recrutamento-e-Sele-o-de-Professores-de-Gin-stica)
+- [Plano de Limpeza Preventiva](https://github.com/IgorYole/Plano-de-Limpeza-Preventiva)
+- [Plano de Manutenção Preventiva](https://github.com/IgorYole/Plano-de-Manuten-o-Preventiva)
+- [Substituição de Máquinas de Musculação e Cardio](https://github.com/IgorYole/Substitui-o-de-M-quinas-de-Muscula-o-e-Cardio)
+- [Troca do Piso – Área de Peso Livre](https://github.com/IgorYole/Troca-do-Piso-rea-de-Peso-Livre)
+- [Troca de Fiação dos Espelhos](https://github.com/IgorYole/Troca-de-Fia-o-dos-Espelhos)
+- [Pintura Geral da Unidade](https://github.com/IgorYole/Pintura-Geral-da-Unidade)
+- [Treinamento de Atendimento – Recepção](https://github.com/IgorYole/Treinamento-de-Atendimento-Recep-o)
 
 
 ---
